@@ -1,0 +1,7 @@
+* linguist-vendored
+*.robot linguist-vendored=false
+
+#A configuração linguist-vendored=false ajuda o Linguist a entender que os arquivos Robot Framework (.robot)
+#no seu projeto não são arquivos vendored, mas são arquivos fonte escritos por você ou pela equipe do projeto.
+# garantir que as estatísticas de linguagem do repositório no GitHub sejam mais precisas e para ajudar 
+#na identificação correta da linguagem do projeto.
